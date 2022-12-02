@@ -78,6 +78,6 @@ Eshika and Shreeya: Approach 2 </br>
 4. Adaptive Thresholding for detecting curves and edges. [link](https://pyimagesearch.com/2021/05/12/adaptive-thresholding-with-opencv-cv2-adaptivethreshold/)
 5. Cvzone documentation: Used for displaying the pixel count over an image. [link](https://pypi.org/project/cvzone/)
 
-## Citation (optional)
+## Citation 
 
 - Parking Space Detection Using Image Processing in MATLAB (https://www.irjet.net/archives/V5/i4/IRJET-V5I4287.pdf)
