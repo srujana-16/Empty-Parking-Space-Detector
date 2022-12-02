@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-The goal of the project is to detect and count the number of empty spots, given an orthogonal and top-view of a car parking lot. The parking lots can also have shadows in them. 
+The goal of the project is to detect and count the number of empty spots, given an orthogonal and top-view of a car parking lot. The parking lots can also have shadows in them. Created as part of Digital Image Processing course project.
 
 ### Objective
 
